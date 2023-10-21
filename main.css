@@ -1,3 +1,23 @@
+/*makes the text have an underline*/
 h1{
-    
+    text-decoration: underline;
+}
+
+/*makes the text bold*/
+.question{
+    font-weight: bold;
+}
+
+/*font-size adjusts text*/
+#copyright{
+    font-size: 80%;
+}
+
+img{
+    border: 5px solid salmon;
+    margin: 25px 25px 25px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px; 
 }
